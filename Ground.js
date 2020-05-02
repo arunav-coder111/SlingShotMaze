@@ -1,5 +1,5 @@
 class Ground {
-    constructor(x,y,width,height,options) {
+    constructor(x,y,width,height) {
      var options = {
          isStatic: true
       }
